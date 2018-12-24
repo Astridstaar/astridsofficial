@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Futura LT';
+  src: url('FuturaLT-Heavy.eot'); /* IE9 Compat Modes */
+  src: url('FuturaLT-Heavy-.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('FuturaLT-Heavy.woff') format('woff'), /* Modern Browsers */
+       url('FuturaLT-Heavy.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('FuturaLT-Heavy.svg#c75aeb5276f8359f2285ebd130db56d9') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Futura LT Book';
+  src: url('FuturaLT-Book.eot'); /* IE9 Compat Modes */
+  src: url('FuturaLT-Book-.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('FuturaLT-Book.woff') format('woff'), /* Modern Browsers */
+       url('FuturaLT-Book.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('FuturaLT-Book.svg#432ca5434a2dd715580d888c804aa2b7') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
